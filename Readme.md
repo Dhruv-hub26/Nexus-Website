@@ -5,12 +5,6 @@ This project focuses on smooth UI, animated elements, responsive layout, and an 
 
 ---
 
-## 🚀 Live Demo  
-*(Add your deployment link here after hosting)*  
-`https://your-website-link.com`
-
----
-
 ## 🖥️ Features
 
 | Feature | Description |
